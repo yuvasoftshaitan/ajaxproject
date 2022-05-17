@@ -5,7 +5,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: myapp_development
+  database: ajaxtable
   pool: 5
   username: shaitan
   password: 123456
@@ -13,7 +13,7 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: myapp_test
+  database: ajaxtable3
   pool: 5
   username: shaitan
   password: 123456
